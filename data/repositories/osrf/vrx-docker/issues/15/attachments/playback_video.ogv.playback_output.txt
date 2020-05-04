@@ -1,0 +1,77 @@
+Gazebo multi-robot simulator, version 9.11.0
+Copyright (C) 2012 Open Source Robotics Foundation.
+Released under the Apache 2 License.
+http://gazebosim.org
+
+[1;33m[Wrn] [GuiIface.cc:202] [0m[1;33mg/gui-plugin is really loading a SystemPlugin. [0m[1;33mTo load a GUI plugin please use --gui-client-plugin 
+[0mGazebo multi-robot simulator, version 9.11.0
+Copyright (C) 2012 Open Source Robotics Foundation.
+Released under the Apache 2 License.
+http://gazebosim.org
+
+[0m[ INFO] [1570407343.780983962]: Finished loading Gazebo ROS API Plugin.[0m
+[0m[ INFO] [1570407343.781650003]: waitForService: Service [/gazebo/set_physics_properties] has not been advertised, waiting...[0m
+[1;32m[Msg] [0m[1;32mWaiting for master.[0m[1;32m
+[0m[1;32m[0m[1;32m[Msg] [0m[1;32mConnected to gazebo master @ [0m[1;32mhttp://127.0.0.1:11345[0m[1;32m
+[0m[1;32m[0m[1;32m[Msg] [0m[1;32mPublicized address: [0m[1;32m192.168.43.50[0m[1;32m
+[0m[1;32m[0m[1;32m[Msg] [0m[1;32m
+Log playback:
+[0m[1;32m  Log Version: [0m[1;32m1.0[0m[1;32m
+[0m[1;32m  Gazebo Version: [0m[1;32m9.11.0[0m[1;32m
+[0m[1;32m  Random Seed: [0m[1;32m1786941238[0m[1;32m
+[0m[1;32m  Log Start Time: [0m[1;32m3[0m[1;32m [0m[1;32m246000000[0m[1;32m
+[0m[1;32m  Log End Time: [0m[1;32m319[0m[1;32m [0m[1;32m756000000[0m[1;32m
+[0m[1;33m[Wrn] [msgs.cc:1852] [0m[1;33mConversion of sensor type[[0m[1;33mgpu_ray[0m[1;33m] not supported.[0m[1;33m
+[0m[1;33m[0m[0m[ INFO] [1570407343.810853969]: Finished loading Gazebo ROS API Plugin.[0m
+[1;32m[Msg] [0m[1;32mWaiting for master.[0m[1;32m
+[0m[1;32m[0m[0m[ INFO] [1570407343.812029722]: waitForService: Service [/gazebo_gui/set_physics_properties] has not been advertised, waiting...[0m
+[1;32m[Msg] [0m[1;32mConnected to gazebo master @ [0m[1;32mhttp://127.0.0.1:11345[0m[1;32m
+[0m[1;32m[0m[1;32m[Msg] [0m[1;32mPublicized address: [0m[1;32m192.168.43.50[0m[1;32m
+[0m[1;32m[0m[1;31m[Err] [InsertModelWidget.cc:433] [0m[1;31mMissing [0m[1;31mmodel.config[0m[1;31m for model [0m[1;31m"[0m[1;31m/[0m[1;31mh[0m[1;31mo[0m[1;31mm[0m[1;31me[0m[1;31m/[0m[1;31ms[0m[1;31mt[0m[1;31me[0m[1;31mv[0m[1;31me[0m[1;31mn[0m[1;31ml[0m[1;31mi[0m[1;31mu[0m[1;31m/[0m[1;31mc[0m[1;31ma[0m[1;31mt[0m[1;31mk[0m[1;31mi[0m[1;31mn[0m[1;31m_[0m[1;31mw[0m[1;31ms[0m[1;31m/[0m[1;31ms[0m[1;31mr[0m[1;31mc[0m[1;31m/[0m[1;31mv[0m[1;31mr[0m[1;31mx[0m[1;31m/[0m[1;31mv[0m[1;31mr[0m[1;31mx[0m[1;31m_[0m[1;31mg[0m[1;31ma[0m[1;31mz[0m[1;31me[0m[1;31mb[0m[1;31mo[0m[1;31m/[0m[1;31mm[0m[1;31mo[0m[1;31md[0m[1;31me[0m[1;31ml[0m[1;31ms[0m[1;31m/[0m[1;31md[0m[1;31mo[0m[1;31mc[0m[1;31mk[0m[1;31m_[0m[1;31mp[0m[1;31me[0m[1;31mr[0m[1;31mm[0m[1;31mu[0m[1;31mt[0m[1;31ma[0m[1;31mt[0m[1;31mi[0m[1;31mo[0m[1;31mn[0m[1;31ms[0m[1;31m"[0m[1;31m
+[0m[1;33m[Wrn] [Event.cc:61] [0m[1;33mWarning: Deleting a connection right after creation. [0m[1;33mMake sure to save the ConnectionPtr from a Connect call
+[0m[1;31m[Err] [Plugin.hh:187] [0m[1;31mFailed to load plugin [0m[1;31mlibgazebo_ros_camera.so[0m[1;31m: [0m[1;31mlibgazebo_ros_camera.so: cannot open shared object file: No such file or directory[0m[1;31m
+[0m[1;31m[Err] [Plugin.hh:187] [0m[1;31mFailed to load plugin [0m[1;31mlibgazebo_ros_velodyne_gpu_laser.so[0m[1;31m: [0m[1;31mlibgazebo_ros_velodyne_gpu_laser.so: cannot open shared object file: No such file or directory[0m[1;31m
+[0m[1;31m[Err] [Plugin.hh:187] [0m[1;31mFailed to load plugin [0m[1;31mlibgazebo_ros_camera.so[0m[1;31m: [0m[1;31mlibgazebo_ros_camera.so: cannot open shared object file: No such file or directory[0m[1;31m
+[0m[1;31m[Err] [Plugin.hh:187] [0m[1;31mFailed to load plugin [0m[1;31mlibgazebo_ros_camera.so[0m[1;31m: [0m[1;31mlibgazebo_ros_camera.so: cannot open shared object file: No such file or directory[0m[1;31m
+[0m[1;33m[Wrn] [msgs.cc:1852] [0m[1;33mConversion of sensor type[[0m[1;33mgpu_ray[0m[1;33m] not supported.[0m[1;33m
+[0m[1;33m[0m[1;33m[Wrn] [msgs.cc:1852] [0m[1;33mConversion of sensor type[[0m[1;33mgpu_ray[0m[1;33m] not supported.[0m[1;33m
+[0m[1;33m[0m[1;33m[Wrn] [Publisher.cc:141] [0m[1;33mQueue limit reached for topic [0m[1;33m/gazebo/robotx_example_course/pose/local/info[0m[1;33m, deleting message. [0m[1;33mThis warning is printed only once.[0m[1;33m
+[0m[1;33m[0m[1;33m[Wrn] [msgs.cc:1852] [0m[1;33mConversion of sensor type[[0m[1;33mgpu_ray[0m[1;33m] not supported.[0m[1;33m
+[0m[1;33m[0m[1;33m[Wrn] [ModelDatabase.cc:340] [0m[1;33mGetting models from[[0m[1;33mhttp://models.gazebosim.org/[0m[1;33m]. This may take a few seconds.
+[0m[1;33m[Wrn] [World.cc:1070] [0m[1;33mModel with name [[0m[1;33mwamv[0m[1;33m] already exists. [0m[1;33mNot inserting model. This warning can be ignored in certain [0m[1;33msituations such as rewind during log playback.
+[0m[0m[ INFO] [1570407346.487410068, 3.266000000]: waitForService: Service [/gazebo/set_physics_properties] is now available.[0m
+[0m[ INFO] [1570407346.502664780, 3.296000000]: Physics dynamic reconfigure ready.[0m
+[1;33m[Wrn] [Publisher.cc:141] [0m[1;33mQueue limit reached for topic [0m[1;33m/gazebo/robotx_example_course/physics/contacts[0m[1;33m, deleting message. [0m[1;33mThis warning is printed only once.[0m[1;33m
+[0m[1;33m[0m[1;33m[Wrn] [Publisher.cc:141] [0m[1;33mQueue limit reached for topic [0m[1;33m/gazebo/robotx_example_course/pose/info[0m[1;33m, deleting message. [0m[1;33mThis warning is printed only once.[0m[1;33m
+[0m[1;33m[0m[31m[gazebo-1] escalating to SIGTERM[0m
+[31m[gazebo_gui-2] escalating to SIGTERM[0m
+... logging to /home/stevenliu/.ros/log/64c072b6-e897-11e9-9f0b-3cf01164a01e/roslaunch-stevenliu-Latitude-5400-7150.log
+Checking log directory for disk usage. This may take awhile.
+Press Ctrl-C to interrupt
+Done checking log file disk usage. Usage is <1GB.
+]2;/home/stevenliu/catkin_ws/src/vrx/vrx_gazebo/launch/playback.launch
+[1mstarted roslaunch server http://stevenliu-Latitude-5400:44987/[0m
+
+SUMMARY
+========
+
+PARAMETERS
+ * /gazebo/enable_ros_network: True
+ * /rosdistro: melodic
+ * /rosversion: 1.14.3
+ * /use_sim_time: True
+
+NODES
+  /
+    gazebo (gazebo_ros/gzserver)
+    gazebo_gui (gazebo_ros/gzclient)
+
+[1mROS_MASTER_URI=http://localhost:11311[0m
+]2;/home/stevenliu/catkin_ws/src/vrx/vrx_gazebo/launch/playback.launch http://localhost:11311
+[1mprocess[gazebo-1]: started with pid [7166][0m
+[1mprocess[gazebo_gui-2]: started with pid [7171][0m
+[gazebo_gui-2] killing on exit
+[gazebo-1] killing on exit
+shutting down processing monitor...
+... shutting down processing monitor complete
+[1mdone[0m
